@@ -1,5 +1,9 @@
 # Website Performance Optimization portfolio project
 
+## Introduction
+This project was part of my advanced Udacity coursework. I took a terribly under-performing
+website, and made it more performant (at least 60 fps). But it's still visually terrible.
+
 ## Running Instructions
 1. Go to the Settings tab in my new-frontend-nanodegree-mobile-portfolio repository
 2. Scroll down to the GitHub Pages section, and open the link in your preferred browser.
@@ -34,6 +38,7 @@ Website Performance Optimization, or Mobile Web Development links.
 4. also changed updatePositions by moving the calculation which utilizes
   scrollTop method outside the loop (this was causing layout thrashing)
 
+## Below are the instructions/tips provided by Udacity
 
 ### Getting started
 #### Part 1: Optimize PageSpeed Insights score for index.html
